@@ -1,12 +1,30 @@
-# Data-Analysis-Portfolio
-A collection of data analysis projects focusing on SQL and Google Sheets to solve business problems.
-# Hi, I'm Josué Carmona Cruz | Data Analyst
+Data-Analysis-Portfolio
 
-I am a dedicated student currently completing the "Google Data Analytics Professional Certificate". I am passionate about data exploration and I am developing my skills in **SQL** and **Spreadsheets (Excel/Google Sheets)** to solve real-world problems.
+A collection of data analysis projects using BigQuery SQL and Google Sheets to explore datasets and extract insights.
 
-I am looking for an "Internship" or "Junior Data Analyst" role where I can apply my technical knowledge and continue growing in the data field.
+Hi, I'm Josué Carmona Cruz
+I am currently completing the Google Data Analytics Professional Certificate and developing practical experience in data analysis using SQL and spreadsheets.
+I am seeking a Remote Data Analyst Internship where I can apply analytical thinking, data cleaning techniques, and basic business insight while continuing to grow professionally.
 
-## Technical Skills (In Progress)
-- **Data Cleaning:** SQL (Basic Joins, Filtering), Google Sheets (Pivot Tables, Functions).
-- **Data Visualization:** Creating charts and dashboards in Excel/Google Sheets.
-- **Tools:** BigQuery SQL, and Google Sheets.
+Technical Skills
+SQL (BigQuery)
+
+  - SELECT, WHERE, GROUP BY
+  - Aggregations
+  - Basic JOINs
+  - Data filtering and summarization
+
+Google Sheets
+
+  - Pivot Tables
+  - Data cleaning
+  - Functions (SUMIF, COUNTIF, IF, VLOOKUP)
+  - Basic dashboards
+
+Projects
+
+  - This portfolio includes projects focused on:
+  - Data cleaning
+  - Exploratory analysis
+  - Summary reports
+  - Identifying trends and patterns
